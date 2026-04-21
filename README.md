@@ -135,3 +135,4 @@ bash build_app.sh
 ```
 
 The finished app will be at `dist/StoryTailor.app`. Drag it to `/Applications` or zip it to share.
+# StoryTailor
