@@ -1,0 +1,7 @@
+mood,condition,n,M5 fkgl_pass%,M6 story_elements_pass%,M10 goal_mention_pass%,M11 goal_action_pass%,M13 safe_pass%,all_pass%,cohesion_mean,aoa_coverage_pct_mean
+happy,baseline,24,50.0,95.8,100.0,100.0,100.0,0.0,0.026,90.000
+happy,full,24,58.3,91.7,100.0,100.0,100.0,0.0,0.025,91.355
+sad,baseline,24,58.3,95.8,95.8,100.0,100.0,0.0,0.024,89.721
+sad,full,24,54.2,100.0,100.0,100.0,100.0,0.0,0.025,90.791
+scared,baseline,24,45.8,100.0,100.0,100.0,100.0,0.0,0.023,88.853
+scared,full,24,50.0,95.8,95.8,100.0,100.0,0.0,0.022,91.073

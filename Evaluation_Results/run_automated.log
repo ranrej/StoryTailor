@@ -1,0 +1,598 @@
+INFO:app.db:Database ready at /Volumes/SSD2T/Documents/WebRepo/StoryGenAIv2/database/tables/storygenai.db
+INFO:__main__:Running 144 trials with concurrency=8
+INFO:__main__:CSV     → /Volumes/SSD2T/Documents/WebRepo/StoryGenAIv2/results/automated_results.csv
+INFO:__main__:Stories → /Volumes/SSD2T/Documents/WebRepo/StoryGenAIv2/results/generated_stories.jsonl
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:__main__:[1/144] A06_Mhappy_Lpark_Gempathy_S42_Cbaseline pass=False attempts=1 latency=9.0s
+INFO:__main__:[2/144] A06_Mhappy_Lpark_Gpersistence_S1337_Cbaseline pass=False attempts=1 latency=7.9s
+INFO:__main__:[3/144] A06_Mhappy_Lpark_Gpersistence_S42_Cbaseline pass=False attempts=1 latency=9.2s
+INFO:__main__:[4/144] A06_Mhappy_Lpark_Gempathy_S1337_Cbaseline pass=False attempts=1 latency=10.6s
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+ERROR:app.evaluation.story_elements_eval:Failed to parse story elements JSON: Invalid control character at: line 5 column 90 (char 415)
+Raw: {
+  "Setting": {"present": true, "evidence": "Once upon a time, in a bright school, lived a little lion named Leo."},
+  "Initiating Event / Problem": {"present": true, "evidence": "But then, Leo saw a sad little rabbit alone."},
+  "Goal / Internal Response": {"present": true, "evidence": "He wanted Ruby to be happy, too!"},
+  "Attempt(s)": {"present": true, "evidence": "Leo called, 'Would you like to join us?'},
+  "Direct Consequence / Outcome": {"present": true, "evidence": "They all started to
+INFO:__main__:[5/144] A06_Mhappy_Lschool_Gempathy_S42_Cbaseline pass=False attempts=1 latency=8.9s
+INFO:__main__:[6/144] A06_Mhappy_Lschool_Gempathy_S1337_Cbaseline pass=False attempts=1 latency=9.9s
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:__main__:[7/144] A06_Mhappy_Lschool_Gpersistence_S42_Cbaseline pass=False attempts=1 latency=11.5s
+INFO:__main__:[8/144] A06_Mhappy_Lpark_Gpersistence_S1337_Cfull pass=False attempts=3 latency=45.1s
+INFO:__main__:[9/144] A06_Mhappy_Lpark_Gpersistence_S42_Cfull pass=False attempts=3 latency=45.3s
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:__main__:[10/144] A06_Mhappy_Lschool_Gpersistence_S1337_Cbaseline pass=False attempts=1 latency=8.2s
+INFO:__main__:[11/144] A06_Mhappy_Lschool_Gempathy_S1337_Cfull pass=False attempts=3 latency=44.3s
+INFO:__main__:[12/144] A06_Mhappy_Lschool_Gempathy_S42_Cfull pass=False attempts=3 latency=47.3s
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:__main__:[13/144] A06_Msad_Lpark_Gempathy_S42_Cbaseline pass=False attempts=1 latency=8.9s
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:__main__:[14/144] A06_Msad_Lpark_Gempathy_S1337_Cbaseline pass=False attempts=1 latency=5.9s
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:__main__:[15/144] A06_Mhappy_Lschool_Gpersistence_S42_Cfull pass=False attempts=3 latency=46.1s
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:__main__:[16/144] A06_Msad_Lpark_Gpersistence_S42_Cbaseline pass=False attempts=1 latency=7.7s
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:__main__:[17/144] A06_Mhappy_Lpark_Gempathy_S42_Cfull pass=False attempts=3 latency=80.7s
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:__main__:[18/144] A06_Mhappy_Lpark_Gempathy_S1337_Cfull pass=False attempts=3 latency=46.9s
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:__main__:[19/144] A06_Mhappy_Lschool_Gpersistence_S1337_Cfull pass=False attempts=3 latency=41.3s
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:__main__:[20/144] A06_Msad_Lpark_Gpersistence_S1337_Cbaseline pass=False attempts=1 latency=5.7s
+INFO:__main__:[21/144] A06_Msad_Lschool_Gempathy_S42_Cbaseline pass=False attempts=1 latency=7.2s
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:__main__:[22/144] A06_Msad_Lpark_Gempathy_S42_Cfull pass=False attempts=3 latency=42.1s
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:__main__:[23/144] A06_Msad_Lschool_Gempathy_S1337_Cbaseline pass=False attempts=1 latency=7.7s
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:__main__:[24/144] A06_Msad_Lschool_Gpersistence_S42_Cbaseline pass=False attempts=1 latency=8.5s
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:__main__:[25/144] A06_Msad_Lschool_Gpersistence_S1337_Cbaseline pass=False attempts=1 latency=7.4s
+INFO:__main__:[26/144] A06_Msad_Lpark_Gpersistence_S42_Cfull pass=False attempts=3 latency=43.4s
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:__main__:[27/144] A06_Msad_Lpark_Gempathy_S1337_Cfull pass=False attempts=3 latency=55.8s
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:__main__:[28/144] A06_Mscared_Lpark_Gempathy_S42_Cbaseline pass=False attempts=1 latency=7.4s
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:__main__:[29/144] A06_Mscared_Lpark_Gempathy_S1337_Cbaseline pass=False attempts=1 latency=7.2s
+INFO:__main__:[30/144] A06_Msad_Lpark_Gpersistence_S1337_Cfull pass=False attempts=3 latency=52.2s
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:__main__:[31/144] A06_Msad_Lschool_Gempathy_S1337_Cfull pass=False attempts=3 latency=41.4s
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:__main__:[32/144] A06_Msad_Lschool_Gempathy_S42_Cfull pass=False attempts=3 latency=57.2s
+INFO:__main__:[33/144] A06_Msad_Lschool_Gpersistence_S42_Cfull pass=False attempts=3 latency=41.1s
+INFO:__main__:[34/144] A06_Mscared_Lpark_Gpersistence_S1337_Cbaseline pass=False attempts=1 latency=7.5s
+INFO:__main__:[35/144] A06_Msad_Lschool_Gpersistence_S1337_Cfull pass=False attempts=3 latency=38.8s
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:__main__:[36/144] A06_Mscared_Lschool_Gempathy_S42_Cbaseline pass=False attempts=1 latency=5.2s
+INFO:__main__:[37/144] A06_Mscared_Lpark_Gpersistence_S42_Cbaseline pass=False attempts=1 latency=7.8s
+INFO:__main__:[38/144] A06_Mscared_Lpark_Gempathy_S42_Cfull pass=False attempts=3 latency=41.2s
+INFO:__main__:[39/144] A06_Mscared_Lschool_Gempathy_S1337_Cbaseline pass=False attempts=1 latency=6.8s
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+ERROR:app.evaluation.story_elements_eval:Failed to parse story elements JSON: Expecting ',' delimiter: line 7 column 110 (char 659)
+Raw: {
+  "Setting": {"present": true, "evidence": "In a bright school, Leo felt scared."},
+  "Initiating Event / Problem": {"present": true, "evidence": "Leo’s heart raced. He missed his home and his mom."},
+  "Goal / Internal Response": {"present": true, "evidence": "Leo decided to look for friends, too."},
+  "Attempt(s)": {"present": true, "evidence": "Leo asked, 'Hi, Blue Bird! Can I play with you?'" },
+  "Direct Consequence / Outcome": {"present": true, "evidence": "They ran around the classroom.
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:__main__:[40/144] A06_Mscared_Lschool_Gpersistence_S1337_Cbaseline pass=False attempts=1 latency=6.3s
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:__main__:[41/144] A06_Mscared_Lschool_Gpersistence_S42_Cbaseline pass=False attempts=1 latency=13.3s
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:__main__:[42/144] A06_Mscared_Lpark_Gpersistence_S1337_Cfull pass=False attempts=3 latency=43.1s
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:__main__:[43/144] A08_Mhappy_Lpark_Gempathy_S42_Cbaseline pass=False attempts=1 latency=7.7s
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:__main__:[44/144] A06_Mscared_Lpark_Gempathy_S1337_Cfull pass=False attempts=3 latency=42.4s
+INFO:__main__:[45/144] A06_Mscared_Lschool_Gempathy_S42_Cfull pass=False attempts=3 latency=44.2s
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:__main__:[46/144] A06_Mscared_Lschool_Gempathy_S1337_Cfull pass=False attempts=3 latency=39.3s
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:__main__:[47/144] A08_Mhappy_Lpark_Gempathy_S1337_Cbaseline pass=False attempts=1 latency=11.2s
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:__main__:[48/144] A08_Mhappy_Lpark_Gpersistence_S42_Cbaseline pass=False attempts=1 latency=9.2s
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:__main__:[49/144] A06_Mscared_Lschool_Gpersistence_S1337_Cfull pass=False attempts=3 latency=36.1s
+INFO:__main__:[50/144] A06_Mscared_Lpark_Gpersistence_S42_Cfull pass=False attempts=3 latency=80.8s
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:__main__:[51/144] A08_Mhappy_Lpark_Gpersistence_S1337_Cbaseline pass=False attempts=1 latency=9.0s
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:__main__:[52/144] A08_Mhappy_Lschool_Gempathy_S42_Cbaseline pass=False attempts=1 latency=7.6s
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+ERROR:app.evaluation.story_elements_eval:Failed to parse story elements JSON: Invalid control character at: line 7 column 110 (char 657)
+Raw: {
+  "Setting": {"present": true, "evidence": "Once upon a time, in a sunny school, there lived a little boy named Leo."},
+  "Initiating Event / Problem": {"present": true, "evidence": "One sunny day, Leo had a big math test."},
+  "Goal / Internal Response": {"present": true, "evidence": "What if I can’t do it?” he thought."},
+  "Attempt(s)": {"present": true, "evidence": "Leo took a deep breath and looked at the first question."},
+  "Direct Consequence / Outcome": {"present": true, "evidence": "
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 23,260 AoA words for age 6
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:__main__:[53/144] A08_Mhappy_Lschool_Gempathy_S1337_Cbaseline pass=False attempts=1 latency=8.1s
+ERROR:app.evaluation.story_elements_eval:Failed to parse story elements JSON: Expecting ',' delimiter: line 5 column 77 (char 422)
+Raw: {
+  "Setting": {"present": true, "evidence": "Once upon a sunny day, Leo the little lion played in the park."},
+  "Initiating Event / Problem": {"present": true, "evidence": "Bear sighed, 'I lost my favorite honey jar. I can’t find it!'"},
+  "Goal / Internal Response": {"present": true, "evidence": "He wanted to help his friend feel better."},
+  "Attempt(s)": {"present": true, "evidence": "Let’s look for it together!" Leo said."},
+  "Direct Consequence / Outcome": {"present": true, "evidence": "
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:__main__:[54/144] A06_Mscared_Lschool_Gpersistence_S42_Cfull pass=False attempts=3 latency=74.3s
+INFO:__main__:[55/144] A08_Mhappy_Lpark_Gempathy_S42_Cfull pass=False attempts=3 latency=44.0s
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:__main__:[56/144] A08_Mhappy_Lschool_Gpersistence_S42_Cbaseline pass=False attempts=1 latency=8.6s
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:__main__:[57/144] A08_Mhappy_Lpark_Gpersistence_S42_Cfull pass=False attempts=3 latency=49.3s
+INFO:__main__:[58/144] A08_Mhappy_Lschool_Gpersistence_S1337_Cbaseline pass=False attempts=1 latency=9.6s
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:__main__:[59/144] A08_Mhappy_Lpark_Gempathy_S1337_Cfull pass=False attempts=3 latency=64.0s
+INFO:__main__:[60/144] A08_Mhappy_Lschool_Gempathy_S42_Cfull pass=False attempts=3 latency=43.4s
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:__main__:[61/144] A08_Msad_Lpark_Gempathy_S42_Cbaseline pass=False attempts=1 latency=9.5s
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:__main__:[62/144] A08_Mhappy_Lpark_Gpersistence_S1337_Cfull pass=False attempts=3 latency=54.6s
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:__main__:[63/144] A08_Mhappy_Lschool_Gempathy_S1337_Cfull pass=False attempts=3 latency=44.6s
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:__main__:[64/144] A08_Msad_Lpark_Gempathy_S1337_Cbaseline pass=False attempts=1 latency=9.9s
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:__main__:[65/144] A08_Msad_Lpark_Gpersistence_S42_Cbaseline pass=False attempts=1 latency=8.9s
+ERROR:app.evaluation.story_elements_eval:Failed to parse story elements JSON: Expecting ',' delimiter: line 4 column 83 (char 286)
+Raw: {
+  "Setting": {"present": true, "evidence": "In a sunny park, Leo the little lion loved to play."},
+  "Initiating Event / Problem": {"present": true, "evidence": "Leo and Bear found a big, tall rock."},
+  "Goal / Internal Response": {"present": true, "evidence": "I want to climb it!" said Leo, his eyes shining."},
+  "Attempt(s)": {"present": true, "evidence": "Leo jumped up but slipped and fell onto the soft grass."},
+  "Direct Consequence / Outcome": {"present": true, "evidence": "He reached f
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:__main__:[66/144] A08_Msad_Lpark_Gpersistence_S1337_Cbaseline pass=False attempts=1 latency=9.0s
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:__main__:[67/144] A08_Mhappy_Lschool_Gpersistence_S42_Cfull pass=False attempts=3 latency=50.0s
+INFO:__main__:[68/144] A08_Msad_Lschool_Gempathy_S42_Cbaseline pass=False attempts=1 latency=9.0s
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:__main__:[69/144] A08_Msad_Lschool_Gempathy_S1337_Cbaseline pass=False attempts=1 latency=6.8s
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:__main__:[70/144] A08_Mhappy_Lschool_Gpersistence_S1337_Cfull pass=False attempts=3 latency=60.8s
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+ERROR:app.evaluation.story_elements_eval:Failed to parse story elements JSON: Expecting ',' delimiter: line 4 column 83 (char 295)
+Raw: {
+  "Setting": {"present": true, "evidence": "In a sunny park, Leo the little lion loved to play."},
+  "Initiating Event / Problem": {"present": true, "evidence": "One day, Leo and Bear found a big, tall rock."},
+  "Goal / Internal Response": {"present": true, "evidence": "I want to climb it!" said Leo, his eyes shining."},
+  "Attempt(s)": {"present": true, "evidence": "Leo ran to the rock, but it looked so high."},
+  "Direct Consequence / Outcome": {"present": true, "evidence": "He climbed slow
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:__main__:[71/144] A08_Msad_Lschool_Gpersistence_S42_Cbaseline pass=False attempts=1 latency=8.8s
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:__main__:[72/144] A08_Msad_Lpark_Gempathy_S42_Cfull pass=False attempts=3 latency=66.8s
+INFO:__main__:[73/144] A08_Msad_Lpark_Gempathy_S1337_Cfull pass=False attempts=3 latency=60.0s
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+ERROR:app.evaluation.story_elements_eval:Failed to parse story elements JSON: Expecting ',' delimiter: line 4 column 83 (char 295)
+Raw: {
+  "Setting": {"present": true, "evidence": "In a sunny park, Leo the little lion loved to play."},
+  "Initiating Event / Problem": {"present": true, "evidence": "One day, Leo and Bear found a big, tall rock."},
+  "Goal / Internal Response": {"present": true, "evidence": "I want to climb it!" said Leo, his eyes shining."},
+  "Attempt(s)": {"present": true, "evidence": "Leo ran to the rock, but it looked so high."},
+  "Direct Consequence / Outcome": {"present": true, "evidence": "Leo climbed slo
+ERROR:app.evaluation.story_elements_eval:Failed to parse story elements JSON: Expecting ',' delimiter: line 7 column 116 (char 709)
+Raw: {
+  "Setting": {"present": true, "evidence": "Once upon a time, in a cheerful school, there lived a curious little lion named Leo."},
+  "Initiating Event / Problem": {"present": true, "evidence": "One sunny day, Leo’s teacher announced a big art project."},
+  "Goal / Internal Response": {"present": true, "evidence": "Leo’s heart raced with excitement, but also with worry."},
+  "Attempt(s)": {"present": true, "evidence": "Leo took a deep breath and picked up the brush."},
+  "Direct Consequence / 
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:__main__:[74/144] A08_Msad_Lschool_Gempathy_S42_Cfull pass=False attempts=3 latency=43.2s
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:__main__:[75/144] A08_Msad_Lschool_Gpersistence_S1337_Cbaseline pass=False attempts=1 latency=9.6s
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:__main__:[76/144] A08_Msad_Lpark_Gpersistence_S1337_Cfull pass=False attempts=3 latency=59.8s
+INFO:__main__:[77/144] A08_Mscared_Lpark_Gempathy_S42_Cbaseline pass=False attempts=1 latency=10.1s
+INFO:__main__:[78/144] A08_Msad_Lschool_Gempathy_S1337_Cfull pass=False attempts=3 latency=44.1s
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:__main__:[79/144] A08_Mscared_Lpark_Gempathy_S1337_Cbaseline pass=False attempts=1 latency=8.7s
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:__main__:[80/144] A08_Mscared_Lpark_Gpersistence_S42_Cbaseline pass=False attempts=1 latency=11.5s
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:__main__:[81/144] A08_Mscared_Lpark_Gpersistence_S1337_Cbaseline pass=False attempts=1 latency=10.5s
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:__main__:[82/144] A08_Msad_Lpark_Gpersistence_S42_Cfull pass=False attempts=3 latency=94.9s
+INFO:__main__:[83/144] A08_Msad_Lschool_Gpersistence_S42_Cfull pass=False attempts=3 latency=54.8s
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:__main__:[84/144] A08_Mscared_Lschool_Gempathy_S42_Cbaseline pass=False attempts=1 latency=7.8s
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:__main__:[85/144] A08_Mscared_Lschool_Gempathy_S1337_Cbaseline pass=False attempts=1 latency=10.7s
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:__main__:[86/144] A08_Mscared_Lpark_Gempathy_S42_Cfull pass=False attempts=3 latency=52.9s
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:__main__:[87/144] A08_Mscared_Lpark_Gempathy_S1337_Cfull pass=False attempts=3 latency=54.0s
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:__main__:[88/144] A08_Mscared_Lschool_Gpersistence_S42_Cbaseline pass=False attempts=1 latency=10.2s
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:__main__:[89/144] A08_Mscared_Lpark_Gpersistence_S1337_Cfull pass=False attempts=3 latency=43.5s
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:__main__:[90/144] A08_Mscared_Lpark_Gpersistence_S42_Cfull pass=False attempts=3 latency=62.8s
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:__main__:[91/144] A08_Mscared_Lschool_Gpersistence_S1337_Cbaseline pass=False attempts=1 latency=10.6s
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:__main__:[92/144] A10_Mhappy_Lpark_Gempathy_S42_Cbaseline pass=False attempts=1 latency=14.0s
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:__main__:[93/144] A10_Mhappy_Lpark_Gempathy_S1337_Cbaseline pass=False attempts=1 latency=13.0s
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:__main__:[94/144] A08_Mscared_Lschool_Gempathy_S1337_Cfull pass=False attempts=3 latency=54.5s
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:__main__:[95/144] A08_Mscared_Lschool_Gpersistence_S42_Cfull pass=False attempts=3 latency=52.6s
+INFO:__main__:[96/144] A08_Mscared_Lschool_Gempathy_S42_Cfull pass=False attempts=3 latency=78.9s
+INFO:__main__:[97/144] A10_Mhappy_Lpark_Gpersistence_S42_Cbaseline pass=False attempts=1 latency=11.4s
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 27,136 AoA words for age 8
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:__main__:[98/144] A08_Mscared_Lschool_Gpersistence_S1337_Cfull pass=False attempts=3 latency=54.2s
+INFO:__main__:[99/144] A08_Msad_Lschool_Gpersistence_S1337_Cfull pass=False attempts=3 latency=139.5s
+INFO:__main__:[100/144] A10_Mhappy_Lpark_Gpersistence_S1337_Cbaseline pass=False attempts=1 latency=11.0s
+INFO:__main__:[101/144] A10_Mhappy_Lschool_Gempathy_S42_Cbaseline pass=False attempts=1 latency=13.1s
+INFO:__main__:[102/144] A10_Mhappy_Lpark_Gempathy_S42_Cfull pass=False attempts=3 latency=54.0s
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:__main__:[103/144] A10_Mhappy_Lschool_Gempathy_S1337_Cbaseline pass=False attempts=1 latency=11.4s
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:__main__:[104/144] A10_Mhappy_Lschool_Gpersistence_S42_Cbaseline pass=False attempts=1 latency=12.1s
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:__main__:[105/144] A10_Mhappy_Lpark_Gempathy_S1337_Cfull pass=False attempts=3 latency=56.1s
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:__main__:[106/144] A10_Mhappy_Lschool_Gpersistence_S1337_Cbaseline pass=False attempts=1 latency=11.5s
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:__main__:[107/144] A10_Msad_Lpark_Gempathy_S42_Cbaseline pass=False attempts=1 latency=11.6s
+INFO:__main__:[108/144] A10_Mhappy_Lpark_Gpersistence_S1337_Cfull pass=False attempts=3 latency=53.6s
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:__main__:[109/144] A10_Mhappy_Lpark_Gpersistence_S42_Cfull pass=False attempts=3 latency=65.6s
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+ERROR:app.evaluation.story_elements_eval:Failed to parse story elements JSON: Invalid control character at: line 16 column 46 (char 449)
+Raw: {
+  "Setting": {
+    "present": true,
+    "evidence": "In a bright, cheerful school, Leo the little lion loved to learn."
+  },
+  "Initiating Event / Problem": {
+    "present": true,
+    "evidence": "Bear sat alone on a bench, his head down."
+  },
+  "Goal / Internal Response": {
+    "present": true,
+    "evidence": "He wanted to help his friend feel better."
+  },
+  "Attempt(s)": {
+    "present": true,
+    "evidence": "Let’s look for it together!”
+  },
+  "Direct Consequence / Outcome": {
+    "pres
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:__main__:[110/144] A10_Mhappy_Lschool_Gempathy_S42_Cfull pass=False attempts=3 latency=54.8s
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:__main__:[111/144] A10_Msad_Lpark_Gempathy_S1337_Cbaseline pass=False attempts=1 latency=14.2s
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:__main__:[112/144] A10_Msad_Lpark_Gpersistence_S42_Cbaseline pass=False attempts=1 latency=12.3s
+INFO:__main__:[113/144] A10_Mhappy_Lschool_Gempathy_S1337_Cfull pass=False attempts=3 latency=60.9s
+INFO:__main__:[114/144] A10_Mhappy_Lschool_Gpersistence_S42_Cfull pass=False attempts=3 latency=58.3s
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:__main__:[115/144] A10_Msad_Lschool_Gempathy_S42_Cbaseline pass=False attempts=1 latency=14.4s
+INFO:__main__:[116/144] A10_Msad_Lpark_Gpersistence_S1337_Cbaseline pass=False attempts=1 latency=19.3s
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:__main__:[117/144] A10_Mhappy_Lschool_Gpersistence_S1337_Cfull pass=False attempts=3 latency=64.3s
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:__main__:[118/144] A10_Msad_Lpark_Gempathy_S42_Cfull pass=False attempts=3 latency=63.5s
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:__main__:[119/144] A10_Msad_Lschool_Gempathy_S1337_Cbaseline pass=False attempts=1 latency=12.6s
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:__main__:[120/144] A10_Msad_Lpark_Gempathy_S1337_Cfull pass=False attempts=3 latency=59.5s
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:__main__:[121/144] A10_Msad_Lschool_Gpersistence_S42_Cbaseline pass=False attempts=1 latency=13.8s
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:__main__:[122/144] A10_Msad_Lpark_Gpersistence_S42_Cfull pass=False attempts=3 latency=58.5s
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:__main__:[123/144] A10_Msad_Lschool_Gpersistence_S1337_Cbaseline pass=False attempts=1 latency=14.1s
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:__main__:[124/144] A10_Msad_Lpark_Gpersistence_S1337_Cfull pass=False attempts=3 latency=64.7s
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:__main__:[125/144] A10_Mscared_Lpark_Gempathy_S42_Cbaseline pass=False attempts=1 latency=15.3s
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+ERROR:app.evaluation.story_elements_eval:Failed to parse story elements JSON: Expecting ',' delimiter: line 4 column 95 (char 386)
+Raw: {
+  "Setting": {"present": true, "evidence": "In a sunny park filled with bright flowers, Leo the curious little lion loved to play."},
+  "Initiating Event / Problem": {"present": true, "evidence": "Bear sighed, 'I lost my favorite honey pot. I’ve looked everywhere, but I can’t find it.'"},
+  "Goal / Internal Response": {"present": true, "evidence": "I want to show Bear I care too," Leo thought."},
+  "Attempt(s)": {"present": true, "evidence": "I’ll help you find it!” Leo said, trying to sound b
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:__main__:[126/144] A10_Msad_Lschool_Gpersistence_S42_Cfull pass=False attempts=3 latency=54.4s
+INFO:__main__:[127/144] A10_Mscared_Lpark_Gpersistence_S42_Cbaseline pass=False attempts=1 latency=13.3s
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:__main__:[128/144] A10_Msad_Lschool_Gempathy_S1337_Cfull pass=False attempts=3 latency=77.8s
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:__main__:[129/144] A10_Msad_Lschool_Gpersistence_S1337_Cfull pass=False attempts=3 latency=65.7s
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:__main__:[130/144] A10_Mscared_Lpark_Gpersistence_S1337_Cbaseline pass=False attempts=1 latency=10.0s
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:__main__:[131/144] A10_Mscared_Lpark_Gempathy_S1337_Cbaseline pass=False attempts=1 latency=13.9s
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:__main__:[132/144] A10_Mscared_Lpark_Gempathy_S42_Cfull pass=False attempts=3 latency=63.5s
+INFO:__main__:[133/144] A10_Msad_Lschool_Gempathy_S42_Cfull pass=False attempts=3 latency=117.6s
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:__main__:[134/144] A10_Mscared_Lschool_Gempathy_S42_Cbaseline pass=False attempts=1 latency=13.6s
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:__main__:[135/144] A10_Mscared_Lpark_Gempathy_S1337_Cfull pass=False attempts=3 latency=63.0s
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:__main__:[136/144] A10_Mscared_Lschool_Gempathy_S1337_Cbaseline pass=False attempts=1 latency=19.9s
+INFO:__main__:[137/144] A10_Mscared_Lschool_Gpersistence_S42_Cbaseline pass=False attempts=1 latency=14.4s
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+ERROR:app.evaluation.story_elements_eval:Failed to parse story elements JSON: Expecting ',' delimiter: line 7 column 96 (char 664)
+Raw: {
+  "Setting": {"present": true, "evidence": "In a sunny park filled with colorful flowers, Leo the little lion liked to play."},
+  "Initiating Event / Problem": {"present": true, "evidence": "Today, he felt a bit scared."},
+  "Goal / Internal Response": {"present": true, "evidence": "Leo wished he could be brave like his friend, Bear."},
+  "Attempt(s)": {"present": true, "evidence": "With a deep breath, Leo took a step closer to the slide."},
+  "Direct Consequence / Outcome": {"present": true, 
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:__main__:[138/144] A10_Mscared_Lpark_Gpersistence_S42_Cfull pass=False attempts=3 latency=71.3s
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:__main__:[139/144] A10_Mscared_Lpark_Gpersistence_S1337_Cfull pass=False attempts=3 latency=64.3s
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:__main__:[140/144] A10_Mscared_Lschool_Gempathy_S42_Cfull pass=False attempts=3 latency=64.7s
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:__main__:[141/144] A10_Mscared_Lschool_Gpersistence_S1337_Cbaseline pass=False attempts=1 latency=40.4s
+INFO:__main__:[142/144] A10_Mscared_Lschool_Gempathy_S1337_Cfull pass=False attempts=3 latency=65.7s
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:app.evaluation.vocabulary_eval:Loaded 33,506 AoA words for age 10
+INFO:__main__:[143/144] A10_Mscared_Lschool_Gpersistence_S42_Cfull pass=False attempts=3 latency=62.7s
+INFO:__main__:[144/144] A10_Mscared_Lschool_Gpersistence_S1337_Cfull pass=False attempts=3 latency=60.7s
+INFO:__main__:Done. Completed 144/144 trials in 13.0 min

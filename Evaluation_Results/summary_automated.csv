@@ -1,0 +1,20 @@
+metric,baseline,full,delta (full-baseline)
+M1 page_count_pass,9.7%,16.7%,+7.0 pp
+M2 wps_pass,62.5%,73.6%,+11.1 pp
+M3 spp_pass,62.5%,70.8%,+8.3 pp
+total_words_pass,19.4%,22.2%,+2.8 pp
+M5 fkgl_pass,51.4%,54.2%,+2.8 pp
+M5b fre_pass,70.8%,80.6%,+9.8 pp
+M6 story_elements_pass,97.2%,95.8%,-1.4 pp
+M8 aoa_pass,0.0%,0.0%,+0.0 pp
+M10 goal_mention_pass,98.6%,98.6%,+0.0 pp
+M11 goal_action_pass,100.0%,100.0%,+0.0 pp
+M12 goal_reminder_pass,100.0%,98.6%,-1.4 pp
+M13 safe_pass,100.0%,100.0%,+0.0 pp
+all_pass_automated,0.0%,0.0%,+0.0 pp
+cohesion_mean (mean),0.024,0.024,+0.000
+fkgl_score (mean),2.210,2.052,-0.158
+fre_score (mean),93.482,94.873,+1.391
+aoa_coverage_pct (mean),89.525,91.073,+1.548
+latency_s (mean),10.681,57.539,+46.858
+attempts (mean),1.000,3.000,+2.000
