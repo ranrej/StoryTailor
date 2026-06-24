@@ -89,11 +89,22 @@ A standalone macOS application is available for users who prefer a desktop exper
 
 ## Screenshots
 
-| Home Page            | Story Generator           | Story Reader           |
-| -------------------- | ------------------------- | ---------------------- |
-| ![](assets/home.png) | ![](assets/generator.png) | ![](assets/reader.png) |
+The following screenshots illustrate segments of StoryTailor's workflow, from story setup to the final generated storybook.
+
+| Home Page               | Main Character Selection          |
+| ----------------------- | --------------------------------- |
+| ![](assets/1_home.jpeg) | ![](assets/2_main_character.jpeg) |
+
+| Learning Goal Selection  | Story Generation & Editing       |
+| ------------------------ | -------------------------------- |
+| ![](assets/6_learn.jpeg) | ![](assets/7_text_generate.jpeg) |
+
+| Illustration Generation & Editing | Final Storybook          |
+| --------------------------------- | ------------------------ |
+| ![](assets/8_image_generate.jpeg) | ![](assets/9_story.jpeg) |
 
 ---
+
 
 ## Built With
 
