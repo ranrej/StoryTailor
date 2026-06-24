@@ -343,13 +343,10 @@ StoryGenAIv2/
 
 ## Future Improvements
 
-* Story voice narration
 * Multi-language story generation
 * Storybook PDF exports
 * Character memory across stories
-* Parent and educator dashboards
 * Story sharing and collaboration
-* Mobile application support
 
 ---
 
